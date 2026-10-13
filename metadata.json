@@ -1,0 +1,6 @@
+{
+  "name": "Keffi Camp Charity Lottery",
+  "description": "Approved community fundraising and platoon competition prediction platform for NYSC Orientation Camp, Keffi, Nasarawa State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
